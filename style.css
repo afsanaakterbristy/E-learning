@@ -1,10 +1,15 @@
+/* slyle for body  */
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+ /* background-color for one section  */
+
 .institute-bg-info {
     background-color: #F4FAFD;
 }
+
+/* color for arrow  */
 .arrow-text-info{
     color: #9ed8f4;
 }
